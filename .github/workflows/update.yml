@@ -27,5 +27,5 @@ jobs:
         committer_name: GitHub Actions
         committer_email: 41898282+github-actions[bot]@users.noreply.github.com
         fetch: false
-        message: update-${{ env.GITHUB_RUN_NUMBER }}
+        message: update-${{ github.run_number }}
         add: "*.txt --force"
