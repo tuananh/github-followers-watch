@@ -28,7 +28,7 @@ func main() {
 	}
 
 	var (
-		patToken = "GITHUB_PAT_TOKEN"
+		patToken = "GH_PAT_TOKEN"
 	)
 	for _, v := range []*string{&patToken} {
 		if vv := os.Getenv(*v); vv == "" {

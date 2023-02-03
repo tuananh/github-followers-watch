@@ -10,7 +10,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     env:
-      GITHUB_PAT_TOKEN: ${{ secrets.GITHUB_PAT_TOKEN }}
+      GH_PAT_TOKEN: ${{ secrets.GH_PAT_TOKEN }}
     steps:
     - uses: actions/checkout@v3
     - uses: actions/setup-go@v3
