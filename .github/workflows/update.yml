@@ -1,5 +1,6 @@
 name: Collect GitHub data
 on:
+  workflow_dispatch:
   schedule:
   # no reason, I just want to avoid midnight
     - cron: "05 01 * * *"
