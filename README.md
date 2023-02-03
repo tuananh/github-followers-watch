@@ -1,12 +1,11 @@
 github followers watch
 ----------------------
 
-A simple tool to watch my [GitHub account](https://github.com/tuananh)'s followers & following list.
+A simple tool to watch my [GitHub account](https://github.com/tuananh)'s followers & following list. I just want to keep track of new followers, who unfollow me, etc... 
 
 - [followers list](followers.txt)
 - [following list](following.txt)
 
-I just want to keep track of new followers, who unfollow me, etc... 
 
 ## License
 
