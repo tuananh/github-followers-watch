@@ -1,5 +1,5 @@
-github follower watch
----------------------
+github followers watch
+----------------------
 
 A simple tool to watch my [GitHub account](https://github.com/tuananh)'s followers & following list.
 
