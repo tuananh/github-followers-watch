@@ -102,7 +102,6 @@ angus-c
 anguslees
 anguyen8
 anhthang
-animetosho
 anmonteiro
 antirez
 apapirovski
