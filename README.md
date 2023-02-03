@@ -3,7 +3,7 @@ github follower watch
 
 A simple tool to watch my [GitHub account](https://github.com/tuananh)'s followers & following list.
 
-- [follower list](followers.txt)
+- [followers list](followers.txt)
 - [following list](following.txt)
 
 I just want to keep track of new followers, who unfollow me, etc... 
