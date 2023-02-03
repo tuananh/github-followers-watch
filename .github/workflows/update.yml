@@ -1,0 +1,30 @@
+name: Collect GitHub data
+on:
+  schedule:
+  # no reason, I just want to avoid midnight
+    - cron: "05 01 * * *"
+defaults:
+  run:
+    working-directory: ./watcher
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT_TOKEN: ${{ secrets.GITHUB_PAT_TOKEN }}
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-go@v3
+      with:
+        go-version: 1.19
+    - name: Fetch followers
+      run: go run . -- followers > ../followers.txt
+    - name: Fetch following
+      run: go run . -- following > ../following.txt
+    - name: Commit results
+      uses: EndBug/add-and-commit@v9
+      with:
+        committer_name: GitHub Actions
+        committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+        fetch: false
+        message: update-${{ env.GITHUB_RUN_NUMBER }}
+        add: "*.txt --force"
