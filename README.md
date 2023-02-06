@@ -8,9 +8,8 @@ A simple tool to watch my [GitHub account](https://github.com/tuananh)'s followe
 
 ## How to use this tool for my own?
 
-- Clone this repo.
-- `rm -rf .git` and `git init` again.
-- Commit & push to your GitHub repo.
+- Fork this repo.
+- OPTIONAL: delete followers.txt & following.txt. Otherwise, GitHub Actions will update those anyway.
 - Create a secret named `GH_PAT_TOKEN` and fill in your GitHub personal access token.
 - Allow GHA to have write access to your repo.
 
