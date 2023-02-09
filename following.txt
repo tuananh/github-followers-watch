@@ -22,6 +22,7 @@ DirectXMan12
 EisenbergEffect
 FiloSottile
 Fishrock123
+Gankra
 GlenTiki
 Huxpro
 JamesHenry
@@ -119,6 +120,7 @@ astro
 auchenberg
 audreyt
 awalterschulze
+axodotdev
 axross
 bagder
 bahmutov
