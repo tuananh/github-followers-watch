@@ -302,6 +302,7 @@ gagern
 gdamore
 geek
 geerlingguy
+ggerganov
 ggreer
 ghemawat
 gibfahn
@@ -458,6 +459,7 @@ kunalspathak
 lachie83
 laurilehmijoki
 lavalamp
+ldez
 lebinh
 leebyron
 lemire
@@ -479,6 +481,7 @@ luhring
 luin
 lukeed
 lukehinds
+lunny
 luxas
 maasencioh
 mafintosh
@@ -709,6 +712,7 @@ targos
 tazjin
 tdhopper
 tebbi
+techknowlogick
 technosophos
 terkelg
 terrytangyuan
@@ -745,6 +749,7 @@ tuanbo91
 tuhuynh27
 turbo
 typicode
+unknwon
 unregistered
 urish
 v9n
@@ -783,6 +788,7 @@ zackbloom
 zcbenz
 zesterer
 zeux
+zhaohuabing
 zimbatm
 zkat
 zkochan
