@@ -399,6 +399,7 @@ jmblog
 jml
 joelgriffith
 jonathanong
+jonjohnsonjr
 jonschlinkert
 jordwalke
 jorgebucaran
