@@ -52,6 +52,7 @@ Random-Liu
 Salakar
 SamSaffron
 Seldaek
+ShaiBer
 SlexAxton
 Starefossen
 TeMPOraL
@@ -267,6 +268,7 @@ edpin
 edsadr
 einaros
 ekzhang
+eladb
 elasticthreads
 emilbayes
 engineal
