@@ -15,6 +15,7 @@ HaManhDong
 Imagine-Tom
 JCSIVO
 Jasmine2411
+KaizenTamashi
 KevinHock
 KimBao1306
 Lanhuong207
@@ -221,7 +222,6 @@ rafaqat
 rayshen
 re0udjat
 reddysainathn
-refactorian
 rhiokim
 rohithadassanayake
 ruandre
@@ -247,7 +247,6 @@ thanhnbt
 thanhtoan1196
 thanhtrv
 thaotrang9613
-theonesky
 thinhbgnex
 thutrang0914
 toannk
