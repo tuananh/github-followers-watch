@@ -17,7 +17,6 @@ Codesleuth
 CompuIves
 DamianEdwards
 DeMoorJasper
-DenisKolodin
 DirectXMan12
 EisenbergEffect
 FiloSottile
@@ -736,6 +735,7 @@ thangngoc89
 thefourtheye
 thegoleffect
 thejoshwolfe
+therustmonk
 thinkingfish
 thinkroth
 thisandagain
