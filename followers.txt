@@ -157,6 +157,7 @@ jdtProg
 jedsada-gh
 jeffersonsimaogoncalves
 jgcmarins
+jimmyvo0512
 jondo89
 just-a-bot
 jzhang2004
