@@ -152,7 +152,6 @@ ichiriac
 ijagjeet
 iliaskarim
 im6h
-isyuricunha
 jdtProg
 jedsada-gh
 jeffersonsimaogoncalves
@@ -170,6 +169,7 @@ khanhnt99
 khiemdoan
 khoahuynhdev
 kidluc
+kidotuti
 kroitor
 ktpm489
 ky-bot
