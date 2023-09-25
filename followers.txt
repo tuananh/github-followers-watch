@@ -69,6 +69,7 @@ anhpnv
 anhthang
 anhthii
 balasu
+balconyhotmilk
 banguyen93
 baonq243
 bazzscript
@@ -157,7 +158,6 @@ jdtProg
 jedsada-gh
 jeffersonsimaogoncalves
 jgcmarins
-jimmyvo0512
 jondo89
 just-a-bot
 jzhang2004
