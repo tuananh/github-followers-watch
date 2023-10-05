@@ -57,7 +57,7 @@ Window-Yan
 XanMarta
 Xuantunglab
 ZabethMay
-afro-coder
+abcxyzbank
 ajanthanm
 akando42
 akram-akie
@@ -86,6 +86,7 @@ congnd
 consokodev
 cosckoya
 ctien
+cumsoft
 cusspvz
 dachanh
 dalindev
