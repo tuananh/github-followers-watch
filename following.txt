@@ -19,6 +19,7 @@ DamianEdwards
 DeMoorJasper
 DirectXMan12
 EisenbergEffect
+EthanHeilman
 FiloSottile
 Fishrock123
 Gankra
@@ -405,6 +406,7 @@ jml
 joelgriffith
 jonathanong
 jonjohnsonjr
+jonnystoten
 jonschlinkert
 jordwalke
 jorgebucaran
