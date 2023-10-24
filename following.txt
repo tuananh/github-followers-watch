@@ -316,6 +316,7 @@ giuseppe
 gmkurtzer
 goccy
 goenning
+gollux
 goodfeli
 gorhill
 gr2m
@@ -587,6 +588,7 @@ ofrobots
 okdistribute
 okonet
 oliverchang
+ondrej111
 onmyway133
 ooade
 open-feature
