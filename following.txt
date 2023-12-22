@@ -296,6 +296,7 @@ fengmk2
 feross
 fhinkel
 fiveisprime
+foldmap
 franciscop
 fridays
 fritzy
@@ -411,7 +412,6 @@ jonjohnsonjr
 jonnystoten
 jonschlinkert
 jordwalke
-jorgebucaran
 josephg
 joshgav
 joyeecheung
