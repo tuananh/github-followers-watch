@@ -18,6 +18,7 @@ HaManhDong
 HoangQC
 Imagine-Tom
 JCSIVO
+JCharante
 Jasmine2411
 KHemanthRaju
 KaizenTamashi
@@ -123,6 +124,7 @@ ethanflower1903
 euclid1990
 evinw
 fonger900
+francisphn
 frankfanslc
 fxxjdedd
 george0st
@@ -204,6 +206,7 @@ longnnit
 lpww
 luongnguyentrong
 lyktk18798
+lyluongthien
 macressler
 marko-jankovic
 matthewmueller
