@@ -150,6 +150,7 @@ bmeurer
 bmullan91
 bnb
 bnoordhuis
+bobble6956
 bogdandrutu
 boingoing
 bradfitz
@@ -768,7 +769,6 @@ tonistiigi
 tonsky
 trevnorris
 trivikr
-tuanbo91
 tuhuynh27
 turbo
 typicode
