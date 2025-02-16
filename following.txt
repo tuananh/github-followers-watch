@@ -1,6 +1,7 @@
+0xdabbad00
 1debit
 3rd-Eden
-AkashaCoin
+89luca89
 AkihiroSuda
 AndreasMadsen
 AndreyAkinshin
@@ -32,6 +33,8 @@ JoeDoyle23
 JohnTitor
 JungMinu
 JustinBeckwith
+KarbonDallas
+KellerJordan
 KrauseFx
 LandonTClipp
 Leonidas-from-XIV
@@ -46,6 +49,7 @@ MylesBorins
 Mytherin
 NghiaTranUIT
 NickCraver
+OpenXiangShan
 PaulKinlan
 Qard
 RReverser
@@ -70,6 +74,7 @@ Vlaaaaaaad
 Willyham
 XadillaX
 ZogStriP
+a-hilaly
 abeisgoat
 acdlite
 adamschwartz
@@ -94,6 +99,7 @@ alexmingoia
 alexpulver
 allevo
 aluzzardi
+alyssarosenzweig
 amasad
 amilajack
 amitguptagwl
@@ -117,6 +123,7 @@ arcanis
 armon
 aruneshchandra
 arunoda
+asahilina
 ashleymcnamara
 assaf
 astefanutti
@@ -124,8 +131,10 @@ astro
 auchenberg
 audreyt
 awalterschulze
+awilfox
 axodotdev
 axross
+azenla
 bagder
 bahmutov
 bbondy
@@ -140,6 +149,7 @@ bep
 bestander
 bevacqua
 bgrant0607
+bhelx
 biggora
 binji
 bitinn
@@ -266,6 +276,7 @@ duythinht
 dvdsgl
 dvirsky
 dvyukov
+dylibso
 ebidel
 eddiezane
 edpin
@@ -285,7 +296,9 @@ evankanderson
 evanlucas
 evanw
 evilrabbit
+evilsocket
 eviltrout
+eyberg
 f41gh7
 fafhrd91
 fatih
@@ -321,6 +334,7 @@ goenning
 gollux
 goodfeli
 gorhill
+gpanders
 gr2m
 graydon
 greatbn
@@ -383,8 +397,10 @@ jakebailey
 jakepruitt
 jamesgpearce
 jamiebuilds
+jan-wassenberg
 jaredly
 jaredreich
+jart
 jashkenas
 jasnell
 jasongin
@@ -406,6 +422,7 @@ jkrems
 jkroepke
 jmblog
 jml
+jmorganca
 joelgriffith
 jonathanong
 jonjohnsonjr
@@ -418,6 +435,7 @@ joshgav
 joyeecheung
 jpbetz
 jpetazzo
+jsafrane
 jskeet
 jstrachan
 jtattermusch
@@ -470,6 +488,7 @@ kristoferbaxter
 krzyzacy
 ktock
 kunalspathak
+kyegomez
 lachie83
 laurilehmijoki
 lavalamp
@@ -498,6 +517,7 @@ lukehinds
 lunny
 luxas
 maasencioh
+maddyblue
 mafintosh
 mahmoud
 manjuraj
@@ -506,6 +526,7 @@ martinbaillie
 martinwoodward
 matheuss
 mathiasbynens
+mattfarina
 matthewmueller
 mattmoor
 mattn
@@ -525,7 +546,9 @@ mgechev
 mgravell
 mhdawson
 mhevery
+mhmd-azeez
 mholt
+micahhausler
 michelleN
 miekg
 migueldeicaza
@@ -542,7 +565,6 @@ misterdjules
 mitchellh
 mitermayer
 mitsuhiko
-mjibson
 mmalecki
 mmcloughlin
 mohsen1
@@ -560,6 +582,7 @@ munificent
 mweststrate
 mxcl
 mziccard
+naoki9911
 natefaubion
 natefinch
 nathanfaucett
@@ -575,6 +598,7 @@ ngs
 ngtuna
 nicolerenee
 nikgraf
+nilslice
 ninjatux
 nkzawa
 nlf
@@ -599,6 +623,8 @@ openvex
 orhun
 osteele
 othiym23
+otoolep
+otto8-ai
 overcyn
 overfloat
 owenversteeg
@@ -642,12 +668,15 @@ refack
 refinedblessing
 rehanvdm
 remy
+rexim
 rhatdan
 rheinwein
 rianhunter
 ricardofbarros
 richardhboyd
+richfelker
 rigtorp
+rimusz
 ritazh
 riyazdf
 rjrodger
@@ -662,6 +691,8 @@ rothgar
 rs
 rsms
 rui314
+rust-secure-code
+rust-vmm
 rvagg
 ry
 sadovnychyi
@@ -720,6 +751,8 @@ stedolan
 stefanprodan
 stepchowfun
 stevestreza
+stgraber
+str4d
 streadway
 strongjz
 sttts
@@ -744,6 +777,7 @@ thangngoc89
 thefourtheye
 thegoleffect
 thejoshwolfe
+theobarberbany
 therustmonk
 thinkingfish
 thinkroth
@@ -752,6 +786,7 @@ thlorenz
 thockin
 threepointone
 tidwall
+timbray
 timneutkens
 timothyis
 timrwood
@@ -794,6 +829,7 @@ walmik
 watson
 wbond
 web-infra-dev
+webern
 wez
 whatyouhide
 whilelucky
@@ -802,12 +838,16 @@ willnorris
 wojtek-t
 wu-sheng
 wycats
+xing-yang
 xmudrii
+xnox
 yangzhe1991
 yasker
+yetone
 yorkie
 yoshuawuyts
 yosuke-furukawa
+yuwata
 yyx990803
 zackbloom
 zcbenz
