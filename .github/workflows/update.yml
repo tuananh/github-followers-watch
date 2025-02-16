@@ -12,12 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      GH_PAT_TOKEN: ${{ secrets.GH_PAT_TOKEN }}
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-go@v3
         with:
           go-version: 1.24
-      - run: echo "GH_PAT_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
       - name: Fetch followers
         run: go run . -- followers > ../followers.txt
       - name: Fetch following
