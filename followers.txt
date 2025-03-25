@@ -1,8 +1,8 @@
+0xstonegm
 3rd
 7und3dpy
 911-carrera
 4501104220
-AI4Networking
 Akshar-code
 AlejandroAkbal
 AlexBrandi
@@ -202,6 +202,7 @@ ichiriac
 idimetrix
 iliaskarim
 im6h
+isyuricunha
 jdtProg
 jedsada-gh
 jeffersongoncalves
@@ -293,7 +294,6 @@ phidp
 phuc-tranh-otsv
 phuonglai91
 pokgak
-psemicol
 qmauvnt
 quanganhdo
 quangpl
