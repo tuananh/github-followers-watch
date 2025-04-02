@@ -707,7 +707,6 @@ saschagrunert
 schickling
 schrockn
 scottrigby
-sdegutis
 seanmonstar
 sebastianbergmann
 sebdeckers
@@ -778,6 +777,7 @@ thegoleffect
 thejoshwolfe
 theobarberbany
 therustmonk
+thesoftwarephilosopher
 thinkingfish
 thinkroth
 thisandagain
