@@ -124,7 +124,6 @@ dalindev
 dankeyorion
 daotoan-hd
 datpham19
-decoderwhoami
 deepsea514
 deptrai21
 developer-guy
@@ -170,6 +169,7 @@ goswamig
 gujiaxi
 gumaciel
 gustavokuklinski
+h114mx001
 hackerfollower
 hackerzhut
 hafiz-muhammad
@@ -207,7 +207,6 @@ im6h
 isyuricunha
 jdtProg
 jedsada-gh
-jeffersongoncalves
 jgcmarins
 jimmynguyen13
 jmadden21
