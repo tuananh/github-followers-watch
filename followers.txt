@@ -3,6 +3,7 @@
 7und3dpy
 911-carrera
 4501104220
+AGNutGH
 Akshar-code
 AlejandroAkbal
 AlexBrandi
@@ -210,6 +211,7 @@ idimetrix
 iliaskarim
 im6h
 isyuricunha
+jawnsy
 jdbrew2
 jdtProg
 jedsada-gh
@@ -296,6 +298,7 @@ ntk148v
 ntp28459hteam
 nvatuan
 oanhnn
+od0
 opengineer
 orchidfire
 otis-tran
