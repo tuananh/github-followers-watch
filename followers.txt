@@ -84,6 +84,7 @@ WillDev12
 XuananLe
 Xuantunglab
 ZabethMay
+aaronlanuza
 ajanthanm
 akando42
 akizminet
@@ -126,7 +127,6 @@ cumsoft
 cuong0993
 cuongphamthe185
 cusspvz
-d27x
 dachanh
 dainv85
 dalindev
@@ -137,6 +137,7 @@ deepsea514
 deptrai21
 developer-guy
 devtdq1701
+dibyendu-chatterjee
 diendoan-gft
 dimetron
 dimkagithub
