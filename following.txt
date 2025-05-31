@@ -816,7 +816,6 @@ v9n
 vadimdemedes
 vaneenige
 vfarcic
-vietanhduong
 viglesiasce
 vijayee
 vitallium
@@ -840,6 +839,7 @@ willnorris
 wojtek-t
 wu-sheng
 wycats
+x00real
 xing-yang
 xmudrii
 xnox
