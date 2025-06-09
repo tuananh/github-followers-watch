@@ -156,7 +156,6 @@ dimetron
 dimkagithub
 dirambora
 dirien
-discodot
 dixudx
 djwerna
 dntai
@@ -199,6 +198,7 @@ gujiaxi
 gumaciel
 gustavokuklinski
 h114mx001
+h-parker-higgins
 hackerfollower
 hackerzhut
 hafiz-muhammad
