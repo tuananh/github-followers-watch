@@ -128,7 +128,6 @@ chen1620
 chiragbhoj
 chrislusf
 cmndcntrlcyber
-conaldev
 congnd
 cosckoya
 csessh
@@ -309,6 +308,7 @@ megafyk
 mhlee0328
 mikedemarais
 milieuChris
+minhakira1
 minhphong306
 minhthong582000
 minhtrangfofl
@@ -405,6 +405,7 @@ thanhtrv
 thaotrang9613
 thinhbgnex
 thinhnpptit
+thongengineer
 thuanpham582002
 thutrang0914
 tmq107
@@ -432,7 +433,6 @@ tycloud97
 ueihvn
 usmanhassanMD
 vanducvo
-vanthonglee
 vbphung
 vdt
 venkat-oss
