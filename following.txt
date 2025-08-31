@@ -562,6 +562,7 @@ mikesherov
 mikesplain
 mikolalysenko
 minimaxir
+mipsel64
 mirceaalexandru
 misterdjules
 mitchellh
@@ -840,7 +841,6 @@ willnorris
 wojtek-t
 wu-sheng
 wycats
-x00real
 xing-yang
 xmudrii
 xnox
