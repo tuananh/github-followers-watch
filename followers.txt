@@ -7,7 +7,6 @@
 AGNutGH
 Akshar-code
 AlejandroAkbal
-AlexBrandi
 AlexxNica
 AlicePhamFI
 AnisTigrini
@@ -38,6 +37,7 @@ Iankulani
 IndieMinimalist
 JCSIVO
 JCharante
+JamesDMcCaffrey
 Jasmine2411
 KHemanthRaju
 KaizenTamashi
