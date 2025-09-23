@@ -327,7 +327,6 @@ minhtrangfofl
 mipsel64
 mlpao500
 mohammadhasanii
-mufassirkazi
 mybui0108
 nabiuddin6
 namlehoangdev
