@@ -34,7 +34,6 @@ JoeDoyle23
 JohnTitor
 JungMinu
 JustinBeckwith
-KarbonDallas
 KellerJordan
 KrauseFx
 LandonTClipp
@@ -84,6 +83,7 @@ adg
 adieuadieu
 adityaiitb
 aeidelson
+affinity-matrix
 aheckmann
 ahejlsberg
 ahmetb
