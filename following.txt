@@ -123,7 +123,6 @@ arcanis
 armon
 aruneshchandra
 arunoda
-asahilina
 ashleymcnamara
 assaf
 astefanutti
@@ -357,6 +356,7 @@ higuruchi
 hildjj
 hkdobrev
 holman
+hoshinolina
 hueniverse
 hughsk
 hugomd
