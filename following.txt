@@ -124,6 +124,7 @@ armon
 aruneshchandra
 arunoda
 ashleymcnamara
+asmvik
 assaf
 astefanutti
 astro
@@ -480,7 +481,6 @@ kjin
 kkemple
 kminehart
 knqyf263
-koekeishiya
 koskimas
 kovidgoyal
 kozlovic
