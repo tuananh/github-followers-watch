@@ -93,6 +93,7 @@ USAnita
 Van-Hoang-Kha
 VanPham289
 VietThan
+VincentBernet
 WillDev12
 XuananLe
 Xuantunglab
@@ -141,6 +142,7 @@ chance2021
 chen1620
 chinhngdev
 chiragbhoj
+chris-short
 chrislusf
 cmndcntrlcyber
 congnd
@@ -171,7 +173,6 @@ dibyendu-chatterjee
 diendoan-gft
 dimetron
 dimkagithub
-diorwave
 dirambora
 dirien
 dixudx
@@ -362,6 +363,7 @@ ngtkieen
 nguyen127001
 nguyendat
 nguyenhoang2009
+ngyngcphu
 nhdang103
 nholuongut
 nicolasjulian
