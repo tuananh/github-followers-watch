@@ -340,7 +340,6 @@ gorhill
 gpanders
 gr2m
 graydon
-greatbn
 guyellis
 gvanrossum
 gyuho
@@ -711,6 +710,7 @@ sameersbn
 sampsongao
 samuelkarp
 sandersn
+sapd9x
 saschagrunert
 schickling
 schrockn
