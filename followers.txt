@@ -31,6 +31,7 @@ ErfiDev
 EzzOps
 Faboli76
 FreesoSaiFared
+Gabriel-assis7
 HaManhDong
 HoangQC
 HuaTanSang
@@ -418,6 +419,7 @@ phildaponte
 phuc-tranh-otsv
 phuonglai91
 phuongtt6
+plutov
 pnguinx
 pokgak
 prajwal369
