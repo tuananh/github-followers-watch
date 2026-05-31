@@ -752,6 +752,7 @@ spf13
 spinlock
 sripathikrishnan
 stansv
+stapelberg
 startling
 stedolan
 stefanprodan
