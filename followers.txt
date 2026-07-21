@@ -35,6 +35,7 @@ Faboli76
 FreesoSaiFared
 Gabriel-assis7
 HaManhDong
+HealerCodeLabs
 HoangQC
 HuaTanSang
 Hung-00
@@ -90,7 +91,6 @@ Sandalots
 Sehaba95
 Shiiku
 Shiro-cha
-ShotoGota
 SkyTik
 Soldy
 Stella-Nguyen
