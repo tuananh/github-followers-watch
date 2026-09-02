@@ -9,7 +9,6 @@ AGNutGH
 Akshar-code
 AlejandroAkbal
 AlexxNica
-Ali-hey-0
 AlicePhamFI
 AnhTuPhi
 AnisTigrini
@@ -328,6 +327,7 @@ khoahuynhdev
 kidluc
 kidotuti
 kien3007
+krislott1992
 kroitor
 ktpm489
 ky-bot
@@ -464,7 +464,6 @@ rhiokim
 rod-gurgel
 rodrigogalura
 rohithadassanayake
-rosedev318
 safaricd
 saldyy
 samfwtoolscam
