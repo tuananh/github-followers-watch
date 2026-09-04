@@ -329,6 +329,7 @@ geerlingguy
 ggerganov
 ggreer
 ghemawat
+ghostty-org
 gibfahn
 gitster
 giuseppe
