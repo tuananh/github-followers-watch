@@ -114,7 +114,6 @@ VietThan
 VincentBernet
 WillDev12
 Xeus-Territory
-XuananLe
 Xuantunglab
 ZabethMay
 acumenix
@@ -329,7 +328,6 @@ khoahuynhdev
 kidluc
 kidotuti
 kien3007
-krislott1992
 kroitor
 ktpm489
 ky-bot
@@ -471,7 +469,6 @@ safaricd
 saldyy
 samfwtoolscam
 samhvw8
-sanchezcpp
 sanggkaitoo
 shadabf
 shakiliitju
@@ -484,6 +481,7 @@ sidster-io
 simpleearn
 simples1
 slavaGanzin
+smart-dev1028
 smileisak
 songlinshu
 sonjoydas210
