@@ -310,7 +310,6 @@ jedsada-gh
 jelspace
 jgcmarins
 jimmynguyen13
-jmadden21
 jondo89
 joseph-wortmann
 just-a-bot
