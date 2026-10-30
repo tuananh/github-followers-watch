@@ -36,7 +36,6 @@ EzzOps
 Faboli76
 FreesoSaiFared
 Gabriel-assis7
-Git-FED
 HaManhDong
 HarleySw
 HealerCodeLabs
