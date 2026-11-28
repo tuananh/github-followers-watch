@@ -23,11 +23,93 @@ jobs:
         run: go run . -- followers > ../followers.txt
       - name: Fetch following
         run: go run . -- following > ../following.txt
+      - name: Build commit message
+        id: changes
+        working-directory: .
+        run: |
+          set -euo pipefail
+
+          # The commit message lists what was added to and removed from each
+          # list since the last commit, e.g.:
+          #
+          #   update followers & following
+          #
+          #   followers added: alice, bob
+          #   followers removed: carol
+          #   following added: dave
+          #
+          # Longer changes are summarized with "(+N more)".
+          max_names=20
+
+          # describe <label> <verb> <old-file> <new-file>
+          # Prints "<label> <verb>: name, name, ..." for the lines present in
+          # new-file but not in old-file, or nothing when they are the same.
+          describe() {
+            local label="$1" verb="$2" old="$3" new="$4"
+            local changes=() names shown
+            # -F: usernames are fixed strings, -x: whole line, -v: invert match
+            mapfile -t changes < <(grep -Fxv -f "$old" "$new" || true)
+            if [ "${#changes[@]}" -eq 0 ]; then
+              return 0
+            fi
+            shown=("${changes[@]:0:max_names}")
+            printf -v names '%s, ' "${shown[@]}"
+            names="${names%, }"
+            if [ "${#changes[@]}" -gt "$max_names" ]; then
+              names+=" (+$(( ${#changes[@]} - max_names )) more)"
+            fi
+            printf '%s %s: %s\n' "$label" "$verb" "$names"
+          }
+
+          tmp_dir="$(mktemp -d)"
+          trap 'rm -rf "$tmp_dir"' EXIT
+
+          labels=()
+          details=()
+          for file in followers.txt following.txt; do
+            [ -f "$file" ] || continue
+            label="${file%.txt}"
+            old="$tmp_dir/old"
+            git show "HEAD:$file" >"$old" 2>/dev/null || true
+
+            added="$(describe "$label" added "$old" "$file")"
+            removed="$(describe "$label" removed "$file" "$old")"
+            if [ -z "$added" ] && [ -z "$removed" ]; then
+              continue
+            fi
+
+            labels+=("$label")
+            if [ -n "$added" ]; then details+=("$added"); fi
+            if [ -n "$removed" ]; then details+=("$removed"); fi
+          done
+
+          if [ "${#labels[@]}" -eq 0 ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Followers and following are unchanged, nothing to commit."
+            exit 0
+          fi
+
+          # "followers", "followers & following", "a, b & c"
+          subject="$(printf '%s, ' "${labels[@]}")"
+          subject="${subject%, }"
+          if [ "${#labels[@]}" -gt 1 ]; then
+            last="${labels[$(( ${#labels[@]} - 1 ))]}"
+            subject="${subject%, *} & $last"
+          fi
+
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          {
+            echo "message<<COMMIT_MESSAGE_EOF"
+            printf 'update %s\n\n' "$subject"
+            printf '%s\n' "${details[@]}"
+            echo "COMMIT_MESSAGE_EOF"
+          } >> "$GITHUB_OUTPUT"
       - name: Commit results
+        if: steps.changes.outputs.changed == 'true'
         uses: EndBug/add-and-commit@v9
         with:
           committer_name: GitHub Actions
           committer_email: 41898282+github-actions[bot]@users.noreply.github.com
           fetch: false
-          message: update-${{ github.run_number }}
+          message: ${{ steps.changes.outputs.message }}
           add: "*.txt --force"
